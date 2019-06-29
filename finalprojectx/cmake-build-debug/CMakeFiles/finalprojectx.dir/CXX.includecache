@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jotika/CLionProjects/finalprojectx/Access.cpp
+Access.h
+C:/Users/jotika/CLionProjects/finalprojectx/Access.h
+
+C:/Users/jotika/CLionProjects/finalprojectx/Access.h
+stdlib.h
+-
+iostream
+-
+fstream
+-
+Product.h
+C:/Users/jotika/CLionProjects/finalprojectx/Product.h
+Shop.h
+C:/Users/jotika/CLionProjects/finalprojectx/Shop.h
+Buying.h
+C:/Users/jotika/CLionProjects/finalprojectx/Buying.h
+
+C:/Users/jotika/CLionProjects/finalprojectx/Buying.h
+iostream
+-
+
+C:/Users/jotika/CLionProjects/finalprojectx/Product.h
+iostream
+-
+
+C:/Users/jotika/CLionProjects/finalprojectx/Shop.h
+Product.h
+C:/Users/jotika/CLionProjects/finalprojectx/Product.h
+vector
+-
+iostream
+-
+

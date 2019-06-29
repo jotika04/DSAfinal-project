@@ -1,0 +1,3 @@
+C:/Users/jotika/CLionProjects/finalprojectx/cmake-build-debug/CMakeFiles/finalprojectx.dir
+C:/Users/jotika/CLionProjects/finalprojectx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jotika/CLionProjects/finalprojectx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
